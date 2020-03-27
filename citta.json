@@ -1,0 +1,10 @@
+{
+	"citta": [
+		{ "location": "Crescentino", 	"provincia": "Vercelli", 	"regione": "Piemonte" },
+		{ "location": "Chivasso", 		"provincia": "Torino", 		"regione": "Piemonte" },
+		{ "location": "Castlemagno", 	"provincia": "Cuneo", 		"regione": "Piemonte" },
+		{ "location": "Magenta", 		"provincia": "Milano", 		"regione": "Lombardia" },
+		{ "location": "Torreberetti", 	"provincia": "Pavia", 		"regione": "Lombardia" },
+		{ "location": "Valenza", 		"provincia": "Alessandria", "regione": "Piemonte" },
+	]
+}
